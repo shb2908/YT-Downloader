@@ -15,3 +15,8 @@ A simple YouTube Video Downloader that downloads videos from YouTube by taking t
    ```sh
    git clone https://github.com/yourusername/yt-downloader.git
    cd yt-downloader
+
+2. Install dependencies:
+    ```sh
+    npm install
+3 . Open your browser and navigate to `http://localhost:3000`
